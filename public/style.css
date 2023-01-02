@@ -1,0 +1,196 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;
+  }
+
+  .home1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: navy;
+  }
+
+  li {
+    float: left;
+    font-family:"FSPBookRegular",sans-serif;
+  }
+
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+  .email1{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+  }
+  
+  .pass1{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+  .email2{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+  }
+  
+  .pass2{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+
+  .signup1 {
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "FSPBookRegular",sans-serif;;
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+
+  .loginbut1{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "FSPBookRegular",sans-serif;;
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .createNote {
+    color: navy;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;;
+    font-size: 35px;
+  }
+
+  .noteTitle{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+  .noteJournal{
+    width: 25%;
+    padding: 12px 20px;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+  .noteSubmit{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    font-family: "FSPBookRegular",sans-serif;;
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+.noteTitles {
+    color: black;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;;
+}
+
+.buttonTogether {
+    padding: 5px 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.journal {
+    background: white;
+    width: 25%;
+    padding: 15px 20px;
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+    font-family: "FSPBookRegular",sans-serif;;
+}
+
+.noteButton {
+    display: flex;
+    margin-top: 10px;
+    font-family: "FSPBookRegular",sans-serif;;
+    background-color: navy;
+    border: none;
+    margin-left: 10px;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.whole {
+    color: black;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;;
+
+}
+
+.please {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;;
+}
+
+.intro {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: "FSPBookRegular",sans-serif;;
+
+}
+
+.tips li{
+    padding: 10px;
+}
+
